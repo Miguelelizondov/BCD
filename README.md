@@ -6,3 +6,11 @@ Además se realizó un [Test Bench](https://github.com/Miguelelizondov/BCD/blob/
 
 # Simulación 
 ![Simulación](/BCD.PNG)
+
+# Esquemático
+Además se realizó el esquemático en [logisim](https://github.com/Miguelelizondov/BCD/blob/master/decoderBCD.circ)
+
+![decoder1](/decoder1.png)
+
+### 
+![decoder2](/decoder2.png)
